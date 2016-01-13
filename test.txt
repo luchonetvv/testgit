@@ -5,3 +5,4 @@ Prueba de remotos
 Prueba de git pull
 Prueba de master
 Rama prueba solamente
+Arregla icono
